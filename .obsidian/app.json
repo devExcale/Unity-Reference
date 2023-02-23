@@ -1,0 +1,17 @@
+{
+  "livePreview": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "it",
+    "en-GB"
+  ],
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "/",
+  "strictLineBreaks": true,
+  "showInlineTitle": false
+}
