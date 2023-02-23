@@ -12,7 +12,8 @@ The whole repository is viewable through *GitHub*, but for the best experience  
 ## Table of Contents
 
 - [General Notes](/General%20Notes.md)
-- [Scene](/Scene.md)
+- [Scene](/TK/Scene.md)
+- [Animations](/TK/Animations.md)
 
 ### Assets
 
