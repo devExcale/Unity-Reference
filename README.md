@@ -12,17 +12,48 @@ The whole repository is viewable through *GitHub*, but for the best experience  
 ## Table of Contents
 
 - [General Notes](/General%20Notes.md)
-- [Scene](/TK/Scene.md)
-- [Animations](/TK/Animations.md)
+- [My References](/My%20References.md)
+- [Workbench](/Workbench.md)
 
 ### Assets
 
 - [Assets](/Assets/Assets.md)
+- [Materials](/Assets/Materials.md)
 - [Prefabs](/Assets/Prefabs.md)
+- [Sprites](/Assets/Sprites.md)
 
 ### Coding
 
-- [Scripts](/Coding/Scripts.md)
 - [Coroutines](/Coding/Coroutines.md)
+- [Input](/Coding/Input.md)
+- [Movement](/Coding/Movement.md)
+- [Scripts](/Coding/Scripts.md)
 
 #### Classes
+
+### Components
+
+- [Collider](/Components/Collider.md)
+- [Components](/Components/Components.md)
+- [Rigidbody](/Components/Rigidbody.md)
+- [Transform](/Components/Transform.md)
+
+### Designing
+
+- [Project Design](/Designing/Project%20Design.md)
+
+### Miscellaneous
+
+- [Nullity Checks](/Miscellaneous/Nullity%20Checks.md)
+- [Operators Override](/Miscellaneous/Operators%20Override.md)
+
+### Patterns
+
+- [Singleton](/Patterns/Singleton.md)
+- [State Pattern](/Patterns/State%20Pattern.md)
+
+### TODO
+
+- [Animations](/TK/Animations.md)
+- [Game Object](/TK/Game%20Object.md)
+- [Scene](/TK/Scene.md)

@@ -8,52 +8,52 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Computer Architecture\"",
+      "query": "path:Assets",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 2139333
       }
     },
     {
-      "query": "path:\"Linear Algebra\"",
+      "query": "path:Coding",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 11674660
       }
     },
     {
-      "query": "path:\"Systems and Networking\"",
+      "query": "path:Components",
       "color": {
         "a": 1,
-        "rgb": 5431518
+        "rgb": 16771584
       }
     },
     {
-      "query": "path:Physics",
+      "query": "path:Designing",
       "color": {
         "a": 1,
-        "rgb": 2657370
+        "rgb": 4390779
       }
     },
     {
-      "query": "path:\"Data Management and Analysis\"",
+      "query": "path:Miscellaneous",
       "color": {
         "a": 1,
-        "rgb": 15597823
+        "rgb": 1529615
       }
     },
     {
-      "query": "path:Probability",
+      "query": "path:Patterns",
       "color": {
         "a": 1,
-        "rgb": 14704722
+        "rgb": 3289743
       }
     },
     {
-      "query": "path:assets",
+      "query": "path:TK",
       "color": {
         "a": 1,
-        "rgb": 808861
+        "rgb": 9507450
       }
     },
     {
@@ -66,14 +66,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 1.04427083333333,
+  "collapse-forces": false,
+  "centerStrength": 0.302083333333333,
+  "repelStrength": 16.25,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4033252418260624,
+  "linkDistance": 275,
+  "scale": 0.3452659524384282,
   "close": true
 }
